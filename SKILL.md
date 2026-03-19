@@ -17,7 +17,7 @@ description: 小红书自动化标准技能，基于本项目自带的 Python CL
 - **评论 / 回复 / 点赞 / 收藏** → 参考 `references/interaction-rules.md`
 - **竞品分析 / 热点追踪 / 研究后创作发布 / 批量互动策略** → 参考 `references/ops-playbooks.md`
 - **准备长期稳定运行、做生产化检查或排查发布前风险** → 参考 `references/production-hardening.md`
-- **查看当前项目最终验收结论、已验证能力与已知风险** → 参考 `references/final-report.md`
+- **查看当前项目已知风险与维护要点** → 参考 `references/risk-checklist.md`
 
 ## 默认工作方式
 

@@ -42,7 +42,6 @@ python scripts/prod_smoke.py
 ## Validated capabilities
 
 See:
-- `references/final-report.md`
 - `references/risk-checklist.md`
 - `references/production-hardening.md`
 
